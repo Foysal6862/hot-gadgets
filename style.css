@@ -1,0 +1,55 @@
+.navbar-brand{
+    display: inline-block;
+    margin-right: 600px;
+    height: 60px;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.bg-color{
+    background-color: antiquewhite;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    height: 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.bd-highlight a{
+    color: tomato;
+}
+.bd-highlight{
+    margin-top: 50px;
+}
+.card-title{
+    font-weight: 600;
+}
+.card-deck{
+    text-align: center;
+}
+#catagories{
+    text-align: center;
+    color: orange;
+    margin-top: 60px;
+}
+footer{
+    text-align: center;
+    color: orangered;
+}
+.bag{
+    text-align: center;
+}
